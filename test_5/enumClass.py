@@ -1,5 +1,5 @@
 """
-
+    成员不能重复
 """
 from enum import Enum
 
